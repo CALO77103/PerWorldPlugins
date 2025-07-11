@@ -20,7 +20,7 @@ public final class PerWorldPlugins extends JavaPlugin {
 
     @Override
     public void onLoad() {
-        this.getPluginLoader().enablePlugin(this);
+        //this.getPluginLoader().enablePlugin(this);
     }
 
     @Override
